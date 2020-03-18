@@ -5,3 +5,5 @@ Use the fake database content provided in this project. Create a new component t
 ### Challenge
 1) Console log the key of each row clicked with the mouse
 2) Toggle the background color on and off of a clicked row
+
+![Sample Output](./2019-04-03_cw.png)
